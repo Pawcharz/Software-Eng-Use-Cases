@@ -1,2 +1,3 @@
 # Software-Eng-Use-Cases
-added new_uc - edited only a little
+new_uc - the file presented as use case diagram
+us_and_class_diagram - new file with class diagram
